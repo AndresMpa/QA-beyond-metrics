@@ -1,5 +1,10 @@
 ## Más allá de los números, QA orientados al performance
 
+### Temas
+- Un pipeline tradicional
+- Necesidades para el pipeline de performance
+- Medir performance en QA pipeline
+- Apuntar a un Target desde las métricas
 
 
 #### Herramientas usadas para la presentación
